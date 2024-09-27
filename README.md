@@ -1,3 +1,8 @@
+Supported OS (tested):
+-Debian 12 (worked for me)
+-Ubuntu 22 and 20
+(Ubuntu 24 not supported)
+
 <!-- markdownlint-disable MD034 -->
 # GFI Proxy Protector - محافظ سرور پروکسی ایرانی
 
